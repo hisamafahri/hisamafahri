@@ -1,5 +1,6 @@
 <p align="center">
   <samp>
+    <a href="https://hisamafahri.com/about">me</a> .
     <a href="https://hisamafahri.com/">writing</a> .
     <a href="https://hisamafahri.com/project">projects</a> .
     <a href="https://twitter.com/hisamafahri">tweets</a> .
