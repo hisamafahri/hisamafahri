@@ -7,3 +7,7 @@
     <a href="mailto:me@hisamafahri.com">email</a>
   </samp>
 </p>
+
+---
+
+_Hey there! Notice my recent spike in contributions on GitHub? No bots here, just linked my notes to a repo. Each change adds a commit—greener just means more writing! 🌱_
