@@ -1,6 +1,6 @@
 <p align="center">
   <samp>
-    <a href="https://github.com/hisamafahri/dotfiles">🏡 visit my house</a>  .
+    <a href="https://github.com/hisamafahri/dotfiles">🏡</a>  .
     <a href="https://hisam.dev">me</a> .
     <a href="https://github.com/hisamafahri?tab=repositories">projects</a> .
     <a href="https://twitter.com/hisamafahri">tweets</a> .
